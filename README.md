@@ -15,11 +15,11 @@ QA Automation | Software Quality | API Testing | Cypress
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JheFerreira&show_icons=true)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheFerreira&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JheFerreira&layout=compact)
 
 ## Sobre mim
 
@@ -43,6 +43,7 @@ Aplicação desenvolvida em Flutter integrada a API REST e MongoDB para auxiliar
 Projeto de automação de testes utilizando Cypress para validação de fluxos de usuário e APIs.
 
 ### API Testing
+
 Coleção de testes para validação de endpoints REST e regras de negócio.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&theme=tokyonight)
