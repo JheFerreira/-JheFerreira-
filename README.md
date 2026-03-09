@@ -12,11 +12,13 @@ QA Automation | Software Quality | API Testing | Cypress
 ![REST API](https://img.shields.io/badge/REST-API-lightgrey)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
 
+
 ## GitHub Stats
 
-![Jessica GitHub stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&count_private=true)
 
-Top Languages
+## Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheFerreira&layout=compact)
 
 ## Sobre mim
@@ -42,3 +44,5 @@ Projeto de automação de testes utilizando Cypress para validação de fluxos d
 
 ### API Testing
 Coleção de testes para validação de endpoints REST e regras de negócio.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&theme=tokyonight)
