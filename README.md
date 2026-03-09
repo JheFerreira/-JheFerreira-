@@ -45,5 +45,3 @@ Projeto de automação de testes utilizando Cypress para validação de fluxos d
 ### API Testing
 
 Coleção de testes para validação de endpoints REST e regras de negócio.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheFerreira&show_icons=true&theme=tokyonight)
