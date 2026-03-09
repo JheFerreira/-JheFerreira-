@@ -45,3 +45,7 @@ Projeto de automação de testes utilizando Cypress para validação de fluxos d
 ### API Testing
 
 Coleção de testes para validação de endpoints REST e regras de negócio.
+
+## Contribution Graph
+
+![Snake animation](https://github.com/JheFerreira/JheFerreira/blob/output/github-contribution-grid-snake.svg)
